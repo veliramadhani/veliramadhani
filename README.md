@@ -19,6 +19,7 @@ Saya mahasiswa **D3 Manajemen Informatika di Politeknik Negeri Padang** yang pas
 <p>
   <a href="https://instagram.com/veli_ramadhani"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://tiktok.com/@veliprtrmdh_"><img src="https://img.shields.io/badge/TikTok-FFB6C1?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/velisa-putri-ramadhani-6315ab31b/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:veliramadhani2320@gmail.com"><img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 ---
