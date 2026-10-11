@@ -17,10 +17,10 @@ Saya mahasiswa **D3 Manajemen Informatika di Politeknik Negeri Padang** yang pas
 
 ## 🌐 Socials
 <p>
-  <a href="https://instagram.com/GANTI_USERNAME_IG_KAMU"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/veli_ramadhani"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@veliprtrmdh_"><img src="https://img.shields.io/badge/TikTok-FFB6C1?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:veliramadhani2320@gmail.com"><img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 ---
 
 ## 💻 Tech Stack
@@ -45,9 +45,9 @@ Saya mahasiswa **D3 Manajemen Informatika di Politeknik Negeri Padang** yang pas
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFE4EC&height=140&text=Imagination%20is%20more%20important%20than%20knowledge&fontSize=22&fontColor=C2185B&fontAlignY=40&desc=-%20Albert%20Einstein&descSize=16&descAlignY=65" width="700" />
 </p>
 
 ---
