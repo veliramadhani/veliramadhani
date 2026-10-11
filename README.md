@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Velisa 🌸</h1>
 
-<!--
-**veliramadhani/veliramadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Informatics+Management+Student;Web+%26+Mobile+Developer;Always+learning+something+new+%F0%9F%92%97" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎀 About Me
+Saya mahasiswa **D3 Manajemen Informatika di Politeknik Negeri Padang** yang passionate di bidang **Web Development** dan **Mobile Development**. Saat ini aktif belajar dan membangun project untuk menjadi developer yang handal.
+
+---
+
+<p align="center">Made with 💗 by Velisa Putri Ramadhani</p>
